@@ -1,0 +1,10 @@
+* cl-naive-store
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.com/Harag/cl-naive-store.git   |
+| commit  | {"messa  |
+| systems | cl-naive-store |
+|---------+-------------------------------------------|
+
