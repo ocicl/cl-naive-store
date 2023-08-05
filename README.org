@@ -4,7 +4,7 @@
 
 |---------+-------------------------------------------|
 | source  | git:https://gitlab.com/Harag/cl-naive-store.git   |
-| commit  | {"messa  |
+| commit  | db99e90  |
 | systems | cl-naive-store |
 |---------+-------------------------------------------|
 
