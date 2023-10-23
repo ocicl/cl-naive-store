@@ -2,9 +2,8 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.com/Harag/cl-naive-store.git   |
-| commit  | db99e90  |
-| systems | cl-naive-store |
-|---------+-------------------------------------------|
-
+|---------+-------------------------------------------------|
+| source  | git:https://gitlab.com/Harag/cl-naive-store.git |
+| commit  | 9b2a5e1                                         |
+| systems | cl-naive-store                                  |
+|---------+-------------------------------------------------|
