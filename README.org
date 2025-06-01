@@ -4,6 +4,6 @@
 
 |---------+-------------------------------------------------|
 | source  | git:https://gitlab.com/Harag/cl-naive-store.git |
-| commit  | 63b2213                                         |
+| commit  | 182ab0c                                         |
 | systems | cl-naive-store                                  |
 |---------+-------------------------------------------------|
